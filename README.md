@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Joel Nadar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer+at+ShealthAI;Computer+Vision+Engineer;Medical+Imaging+AI+Developer;Edge+AI+%26+Robotics+Vision;Content+Creator" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer+at+ShealthAI;Computer+Vision+Engineer;Medical+Imaging+AI+Developer;Edge+AI;Linkedin+Content+Creator" />
 
 <p>
 <a href="https://linkedin.com/in/joelnadar123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,12 +35,12 @@ class JoelNadar:
             "Object Detection",
             "OCR Systems",
             "Edge AI",
-            "Robotics Vision",
             "Wildlife Conservation AI"
         ]
 
     def currently_learning(self):
         return [
+            "YOLO",
             "RF-DETR",
             "Vision Language Models",
             "MLOps",
@@ -146,9 +146,8 @@ Edge AI Optimization
 
 ---
 
-### 🏏 Fun Fact
+### 🌴🏏 Fun Fact
 
-West Indies cricket fan 🇯🇲
-Marlon Samuels is my all-time favorite cricketer.
+When I'm not building AI systems, you'll probably find me watching cricket highlights and dreaming of beachside stadiums and Caribbean sunsets. 🌊☀️🏏
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
