@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Joel%20Nadar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Healthcare%20AI%20%7C%20Edge%20AI&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Joel%20Nadar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Vision%20Engineer%20%7C%20Healthcare%20AI%20%7C%20Edge%20AI&descAlignY=62&descSize=16"/>
 
 # 👋 Hey, I'm Joel Nadar
 
