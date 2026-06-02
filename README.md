@@ -135,7 +135,7 @@ joel = JoelNadar()
 * 🌟 Active Open Source Contributor
 * ✍️ Published Technical Articles on Medium
 * 🎥 AI & Computer Vision Content Creator
-* 🏥 AI Engineer working on Medical Imaging Systems
+* 🏥 Computer Vision Engineer working on Medical Imaging Systems
 
 ---
 
