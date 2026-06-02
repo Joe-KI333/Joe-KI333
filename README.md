@@ -1,150 +1,200 @@
-# 🚀 Featured AI Projects
+# Hi there, I'm Joel Nadar 👋
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🚗 Embedl Car Damage Detection AI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=200&section=header&text=Joel%20Nadar&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20Healthcare%20AI&descAlignY=58&descColor=7aa2f7&descSize=18" />
 
-**Stack:** `YOLOv8` `Python` `OpenCV` `Computer Vision`
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Real-World+AI+Systems+🤖;Computer+Vision+Engineer+👁️;Medical+Imaging+AI+🏥;Robotics+Vision+Systems+🤖;Wildlife+Conservation+AI+🦌;Technical+Content+Creator+🎥" />
+</a>
 
-> AI-powered vehicle damage assessment system developed for automated insurance and inspection workflows.
+<br>
 
-**Highlights:**
+<a href="https://linkedin.com/in/joelnadar123">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* ✅ Real-time damage detection
-* ✅ Vehicle panel localization
-* ✅ Automated inspection workflow
-* ✅ Deep Learning-based assessment
+<a href="https://medium.com/@joelnadarai">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-</td>
-<td width="50%">
+<a href="https://www.youtube.com/@joelnadarai/videos">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-### 🍾 RoboDK Bottle Detection System
+<a href="https://github.com/Joe-KI333">
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Stack:** `YOLOv8` `RoboDK` `Python` `OpenCV`
+<br>
 
-> Computer vision integrated with industrial robotics for automated bottle detection and robotic interaction.
+<img src="https://komarev.com/ghpvc/?username=Joe-KI333&label=Profile+Views&color=7aa2f7&style=for-the-badge"/>
 
-**Highlights:**
+<img src="https://img.shields.io/github/followers/Joe-KI333?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27"/>
 
-* ✅ Vision-guided robotics
-* ✅ Real-time object localization
-* ✅ RoboDK integration
-* ✅ Industrial automation workflow
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🦌 Wildlife Detection & Poaching Prevention System
-
-**Stack:** `Jetson Nano` `PyTorch` `Computer Vision` `Edge AI`
-
-> Edge AI-based wildlife monitoring system designed for real-time animal detection and anti-poaching applications.
-
-**Highlights:**
-
-* ✅ Wildlife species detection
-* ✅ Real-time edge inference
-* ✅ Low-power deployment
-* ✅ Conservation-focused solution
-
-</td>
-<td width="50%">
-
-### 🚘 License Plate Detection System
-
-**Stack:** `YOLOv8` `EasyOCR` `Streamlit` `Python`
-
-> End-to-end automatic number plate recognition system with OCR and video inference capabilities.
-
-**Highlights:**
-
-* ✅ Vehicle identification
-* ✅ OCR-based plate extraction
-* ✅ Video stream processing
-* ✅ Interactive Streamlit UI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐑 Sheep Detection As-One
-
-**Stack:** `YOLOv8` `As-One` `Python`
-
-> Multi-object sheep tracking and detection system for agricultural and livestock monitoring.
-
-**Highlights:**
-
-* ✅ Multi-object tracking
-* ✅ Livestock analytics
-* ✅ Real-time detection
-* ✅ YOLO-powered pipeline
-
-</td>
-<td width="50%">
-
-### 🚗 Car Defect Detection
-
-**Stack:** `Computer Vision` `Deep Learning`
-
-> Automated surface defect detection and quality inspection system.
-
-**Highlights:**
-
-* ✅ Defect localization
-* ✅ Inspection automation
-* ✅ Quality control workflow
-* ✅ Industrial AI application
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💻 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## 🧠 Focus Areas
+## 🧠 About Me
 
 ```python
-focus_areas = [
-    "🏥 Healthcare AI & Medical Imaging",
-    "👁️ Computer Vision",
-    "⚡ Edge AI",
-    "🤖 Robotics Vision Systems",
-    "🚗 Industrial Inspection AI",
-    "🦌 Wildlife Detection & Conservation",
-    "📄 OCR & Document Intelligence"
-]
+class JoelNadar:
+
+    def __init__(self):
+        self.name = "Joel Nadar"
+        self.role = "AI Engineer @ ShealthAI"
+        self.location = "Mumbai, India 🇮🇳"
+        self.education = "BSc Information Technology"
+
+    def focus_areas(self):
+        return [
+            "🏥 Medical Imaging AI & DICOM",
+            "👁️ Computer Vision",
+            "🚗 Vehicle Damage Detection",
+            "🤖 Robotics Vision Systems",
+            "⚡ Edge AI Deployment",
+            "🦌 Wildlife Detection & Conservation",
+            "📄 OCR & Document Intelligence"
+        ]
+
+    def current_work(self):
+        return {
+            "company": "ShealthAI",
+            "focus": "Healthcare AI & Medical Imaging",
+            "hardware": [
+                "RTX 5070 Ti",
+                "Jetson Nano",
+                "SeeedStudio J1010"
+            ],
+            "learning": [
+                "RF-DETR",
+                "Vision Language Models",
+                "MLOps",
+                "Kubernetes"
+            ]
+        }
+
+    def achievements(self):
+        return [
+            "Ultralytics Giveaway Winner",
+            "$500 Ultralytics HUB Credits",
+            "Open Source Contributor",
+            "Technical Content Creator"
+        ]
+
+joel = JoelNadar()
 ```
 
 ---
 
-## 🏅 Achievements
+## 🛠️ Tech Stack
 
-| Achievement                              | Details                               |
-| ---------------------------------------- | ------------------------------------- |
-| 🥇 Ultralytics Community Giveaway Winner | Selected from the global AI community |
-| 💰 Ultralytics HUB Credits Recipient     | Received $500 credits                 |
-| 🖥️ NVIDIA Jetson Hardware Recipient     | Edge AI development platform          |
-| 🌟 Open Source Contributor               | Computer Vision & AI Projects         |
-| ✍️ Medium Technical Writer               | AI & Computer Vision Blogs            |
-| 🎥 YouTube Creator                       | AI Project Walkthroughs               |
-| 🏥 AI Engineer @ ShealthAI               | Healthcare AI & Medical Imaging       |
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Roboflow-7B2FBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joe-KI333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-KI333&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Joe-KI333&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joe-KI333&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🏥 AI Engineer — ShealthAI
+
+* Medical Imaging AI & DICOM Pipelines
+* Healthcare AI Solutions
+* AI-powered Clinical Workflows
+* Edge AI Deployments
+* Computer Vision Applications
+
+### 🤖 Machine Learning Intern
+
+* Computer Vision Solutions
+* Sports Analytics Applications
+* AI Content Development
+* End-to-End ML Pipelines
+
+### 🎓 Teaching Assistant
+
+* AI & Programming Mentorship
+* Computer Vision Guidance
+* Technical Workshops
+* Student Project Support
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                     | Stack                          | Highlights                                                  |
+| ------------------------------------------- | ------------------------------ | ----------------------------------------------------------- |
+| 🚗 Embedl Car Damage Detection AI           | YOLOv8, OpenCV, Python         | Automated vehicle damage assessment and insurance workflows |
+| 🍾 RoboDK Bottle Detection System           | YOLOv8, RoboDK, Python         | Vision-guided robotic automation system                     |
+| 🦌 Wildlife Detection & Poaching Prevention | Jetson Nano, PyTorch, Edge AI  | Real-time wildlife monitoring and anti-poaching solution    |
+| 🚘 License Plate Detection System           | YOLOv8, EasyOCR, Streamlit     | OCR-powered vehicle identification                          |
+| 🐑 Sheep Detection As-One                   | YOLOv8, As-One, Python         | Livestock detection and tracking                            |
+| 🚗 Car Defect Detection                     | Computer Vision, Deep Learning | Surface defect inspection and quality control               |
+
+---
+
+## 🏆 Achievements
+
+| Achievement                          | Details                         |
+| ------------------------------------ | ------------------------------- |
+| 🥇 Ultralytics Giveaway Winner       | Global AI Community Recognition |
+| 💰 Ultralytics HUB Credits           | $500 Credits Awarded            |
+| 🖥️ NVIDIA Jetson Hardware Recipient | Edge AI Development             |
+| 🌟 Open Source Contributor           | AI & Computer Vision Projects   |
+| ✍️ Medium Writer                     | AI & Computer Vision Articles   |
+| 🎥 YouTube Creator                   | AI Tutorials & Walkthroughs     |
 
 ---
 
@@ -152,9 +202,43 @@ focus_areas = [
 
 ```text
 🧠 RF-DETR → Advanced Object Detection
-👁️ Vision Language Models → Multimodal AI
 🏥 Medical Imaging AI → DICOM & Diagnostics
+🤖 Robotics Vision → Automation & Control
 ⚡ Edge AI → Jetson Optimization
-☁️ MLOps → Deployment Pipelines
-🐳 Docker → Containerized AI Applications
+☁️ MLOps → CI/CD & Deployment
+🔭 Vision Language Models → Multimodal AI
 ```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/joelnadar123">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@joelnadarai">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@joelnadarai/videos">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🏏 Fun Fact
+
+West Indies Cricket fan for life. Marlon Samuels remains my favorite cricketer.
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0d1117&height=120&section=footer"/>
+
+<div align="center">
+⭐ Star my repositories if you find them useful.
+</div>
