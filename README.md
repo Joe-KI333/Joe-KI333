@@ -70,7 +70,7 @@ joel = JoelNadar()
 
 ### AI & Computer Vision
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111827?style=flat-square&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111827?style=flat-square)
@@ -86,7 +86,6 @@ joel = JoelNadar()
 ### Edge AI
 
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
-![SeeedStudio J1010](https://img.shields.io/badge/SeeedStudio_J1010-00B9AE?style=flat-square)
 
 ---
 
