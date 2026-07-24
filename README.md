@@ -43,8 +43,6 @@ class JoelNadar:
             "YOLO",
             "RF-DETR",
             "Vision Language Models",
-            "MLOps",
-            "Kubernetes",
             "Advanced Medical Imaging"
         ]
 
