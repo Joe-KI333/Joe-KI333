@@ -24,7 +24,7 @@
 class JoelNadar:
 
     def __init__(self):
-        self.role = "Computer Vision Engineer @ ShealthAI"
+        self.role = "Computer Vision Engineer"
         self.location = "Mumbai, India"
         self.education = "Msc Data Science"
 
@@ -112,7 +112,7 @@ joel = JoelNadar()
 
 # 🏆 Achievements
 
-* 🥇Edge AI Application of the Month – May 2026 by Embedl
+* 🥇Edge AI Application of the Month – May & June 2026 by Embedl
 * 🥇 Ultralytics Community Giveaway Winner
 * 💰 Received $500 Ultralytics HUB Credits
 * 🖥️ NVIDIA Jetson Edge AI Hardware Recipient
@@ -130,7 +130,6 @@ RF-DETR
 Vision Language Models
 Medical Imaging AI
 MLOps
-Kubernetes
 Edge AI Optimization
 ```
 
